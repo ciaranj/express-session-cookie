@@ -1,4 +1,6 @@
 ---
 	name: express-session-cookie
 	description: A session implementation that stores its data in a 'secure' cookie
-	version: 0.0.1
+	version: 0.1.0
+  dependencies:
+    - express >= 0.11.0
